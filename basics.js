@@ -31,7 +31,7 @@ greet(person.name);
  * (there are 6 different data types);
  */
 
-var dataTypes = [16, true, null, undefined, [1,2], 'what', {pop: 'corn'}];
+var dataTypes = [16, true, null, undefined, [1,2], 'what', {pop: 'corn' + 'r&b'}];
 
 /* Create a `dog` object
  * it should have a `bark` function that makes your dog bark!
